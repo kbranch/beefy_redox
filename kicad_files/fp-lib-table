@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name keebs)(type KiCad)(uri ${KIPRJMOD}/../kicad-libs/keebs.pretty)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri ${KIPRJMOD}/../kicad-libs/keyboard_parts.pretty)(options "")(descr ""))
+  (lib (name promicro)(type KiCad)(uri ${KIPRJMOD}/../kicad-libs/ProMicro.pretty/promicro.pretty)(options "")(descr ""))
+  (lib (name myparts)(type KiCad)(uri /home/mattia/Scrivania/Redox_rev2/Librerie/myparts.pretty)(options "")(descr "")(disabled))
+  (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/../kicad-libs/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name keyswitches)(type KiCad)(uri ${KIPRJMOD}/../kicad-libs/keyswitches.pretty)(options "")(descr ""))
+)

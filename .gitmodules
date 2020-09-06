@@ -1,0 +1,21 @@
+[submodule "kicad-libs/keebio-components"]
+	path = kicad-libs/keebio-components
+	url = https://github.com/keebio/Keebio-Parts.pretty.git
+[submodule "kicad-libs/Keebio-Parts.pretty"]
+	path = kicad-libs/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty.git
+[submodule "kicad-libs/keebs.pretty"]
+	path = kicad-libs/keebs.pretty
+	url = https://github.com/egladman/keebs.pretty.git
+[submodule "kicad-libs/keyboard_parts.pretty"]
+	path = kicad-libs/keyboard_parts.pretty
+	url = https://github.com/tmk/keyboard_parts.pretty.git
+[submodule "kicad-libs/keyswitches.pretty"]
+	path = kicad-libs/keyswitches.pretty
+	url = https://github.com/daprice/keyswitches.pretty.git
+[submodule "kicad-libs/kicad_lib_tmk"]
+	path = kicad-libs/kicad_lib_tmk
+	url = https://github.com/tmk/kicad_lib_tmk.git
+[submodule "kicad-libs/ProMicro.pretty"]
+	path = kicad-libs/ProMicro.pretty
+	url = https://github.com/haru-ake/ProMicro.pretty.git
