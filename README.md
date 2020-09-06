@@ -1,5 +1,7 @@
 # Beefy Redox
-This uses the Redox layout with significant modifications to make it feel and sound sturdy.  PCB has been redesigned to work with Kailh MX hotswap sockets because Mill-Max sockets don't really fit some switches (like Kailh's box series).
+This uses the Redox layout with significant modifications to make it feel and sound sturdy.  It's dumb and overkill, but I like it.  PCB has been redone to work with Kailh MX hotswap sockets because Mill-Max sockets don't really fit some switches (like Kailh's box series).
+
+Note that the footprint for the microcontroller is wider than a Pro Micro due to PCB space limitations after turning the switch footprint into swiss cheese.  I floated a header off to the side of my Pro Micros with a bunch of fine wire to make it fit.
 
 Based on Mattia Dal Ben's Redox keyboard: https://github.com/mattdibi/redox-keyboard
 
